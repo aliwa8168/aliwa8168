@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning image classification models, optimization algorithms, and algorithm improvements.
 - 💞️ I’m looking for ways to become stronger😋.
 - 📫 How to reach me : Might be able to contact me directly on GitHub.
-- 😄 Pronouns: aliwa
+- 😄 Pronouns:  ![](https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif)
 - ⚡ Fun fact: I enjoy playing Naruto😋.
-  ![](https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif)
+ 
   <!---
   aliwa8168/aliwa8168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
