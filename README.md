@@ -15,6 +15,6 @@
 
   ------
 
-  
-
-![](https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif)
+<p align="center">
+  <img src="https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif" alt="Image">
+</p>
