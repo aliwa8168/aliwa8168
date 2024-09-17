@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning image classification models, optimization algorithms, and algorithm improvements.
 - 💞️ I’m looking for ways to become stronger😋.
 - 📫 How to reach me : Might be able to contact me directly on GitHub.
-- 😄 Pronouns:  ![](https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif)
+- 😄 Pronouns: aliwa.
 - ⚡ Fun fact: I enjoy playing Naruto😋.
  
   <!---
@@ -12,3 +12,4 @@
   --->
   Hello everyone, I am Cai Xukun. I enjoy singing, dancing, rapping, basketball, and music. 
   I play Naruto. That's it for life.🤓
+ ![](https://github.com/aliwa8168/aliwa8168/blob/main/boy%20girl.gif)
