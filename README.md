@@ -12,8 +12,7 @@
   aliwa8168/aliwa8168 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
   --->
-- Hello everyone, I am Cai Xukun. I enjoy singing, dancing, rapping, basketball, and music. 
-  I like playing Genshin Impact. That's it for life.
+- Genshin Impact is starting！！！！
 
   ------
 
