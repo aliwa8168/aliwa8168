@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliwa8168
-- 👀 I’m interested in natural language processing (NLP)😋, computer vision (CV)😋, Algorithm competitions🤓, and web scraping😋.
+- 👀 I’m interested in Large language Model (NLP)😋, computer vision (CV)😋, Algorithm competitions🤓, and web scraping😋.
 - 🌱 I’m currently learning image classification models, optimization algorithms, and algorithm improvements.
 - 💞️ I’m looking for ways to become stronger😋.
 - 📫 How to reach me : Might be able to contact me directly on GitHub.
